@@ -5,8 +5,7 @@ In the web gallery, write the name of the photo in the input, upload up to 10 ph
 1. Go to the next page, click More.
 2. Add a photo to the gallery using the ADD button under each image.
 3. To view the gallery, click the Favorite button (it shows the number of photos saved in Localstorage).
-4. You can delete photos in the gallery.
-5. 
+4. You can delete photos in the gallery. 
 To see website click [DEMO](https://anton-forzun.github.io/web-gallery/)
 
 Frontend : Vue 3 + Vite + CSS
